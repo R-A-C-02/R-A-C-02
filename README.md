@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @R-A-C-02
 - 👀 I’m interested in Finance and Maths
 - 🌱 I’m currently learning Machine Learning applied to econometrics
+- 😔 I don't post much (But I'm working on private projects, I'll post something very intersting) 
 - 📫 How to reach me radu.alexandru.work@gmail.com
 - ⚡ Fun fact: I love classic music and techno 
 
