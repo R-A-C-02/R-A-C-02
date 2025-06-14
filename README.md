@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @R-A-C-02
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in Finance and Maths
 - 🌱 I’m currently learning Machine Learning applied to econometrics
 - 😔 I don't post much (But I'm working on private projects, I'll post something very intersting) 
