@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Machine Learning applied to econometrics
 - 😔 I don't post much (But I'm working on private projects, I'll post something very intersting) 
 - 📫 How to reach me radu.alexandru.work@gmail.com
-- ⚡ Fun fact: I love classic music and techno 
 
 
 <div align="center">
